@@ -7,12 +7,14 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Software engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+Waterfall
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
@@ -41,4 +43,3 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
-truth
